@@ -4,7 +4,7 @@ For simulation, [SimulIDE](https://github.com/riuandg5/lnt-emb-c-activities/blob
 
 # Overview
 Objective is to make a Car Seat Heater. The whole project is divided into four different activities.
-![overview](images/overview.png)
+![overview](https://user-images.githubusercontent.com/86160630/126757412-35739259-3b69-46ac-a710-41c532277fce.png)
 
 ## Activity 1
 * Show status of the heater (ON or OFF) using an LED on the car dashboard.
