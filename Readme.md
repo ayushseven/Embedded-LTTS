@@ -1,6 +1,6 @@
 This project is part of LnT STEPin program. The objective is to learn Embedded C programming.
 
-For simulation, [SimulIDE](https://www.simulide.com/p/home.html) is used.
+For simulation, [SimulIDE](https://github.com/riuandg5/lnt-emb-c-activities/blob/master/images/overview.png?raw=true) is used.
 
 # Overview
 Objective is to make a Car Seat Heater. The whole project is divided into four different activities.
