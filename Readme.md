@@ -24,8 +24,9 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
 
 | Case 00                            | Case 01                            |
 |------------------------------------|------------------------------------|
-| ![case 00]![activity1_1](https://user-images.githubusercontent.com/86160630/126757023-7dface46-afce-44c6-9624-395222b5beca.png) | ![case 01]![activity1_2](https://user-images.githubusercontent.com/86160630/126757655-7cd6781f-0b19-4737-831a-87a1064c9bee.png) |
+| ![activity1_1](https://user-images.githubusercontent.com/86160630/126757023-7dface46-afce-44c6-9624-395222b5beca.png) | ![activity1_2](https://user-images.githubusercontent.com/86160630/126757655-7cd6781f-0b19-4737-831a-87a1064c9bee.png) |
 
 | Case 10                            | Case 11                            |
 |------------------------------------|------------------------------------|
-| ![case 10](images/activity1_3.png) | ![case 11](images/activity1_4.png) |
+| 
+![activity1_3](https://user-images.githubusercontent.com/86160630/126757820-7918a187-6b4d-4bb3-8045-90adf9520a95.png) | ![case 11](images/activity1_4.png) |
