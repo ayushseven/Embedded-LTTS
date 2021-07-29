@@ -56,3 +56,6 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
    
    ## Final Integrated circuits
    
+   ### Design of project
+   ![Design](https://user-images.githubusercontent.com/86160630/127461098-b4c3f5c6-db7c-46aa-af65-161e0aea0f3f.png)
+   
