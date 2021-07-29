@@ -36,3 +36,13 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
 ### Case 4: When Heater = 1 and Seat = 1 
 
 ![ON-ON](https://user-images.githubusercontent.com/86160630/126874818-f53edcad-7119-4768-ae70-c76692a08e02.png) 
+
+## Activity 2
+* Read temperature from a temperature sensor (analog).
+
+### In Action
+* `TEMPERATURE_SENSOR`
+    * Sensor (emulated as potentiometer) to sense temperature.
+    * Give analog signal (voltage from 0V to 5V) for sensed temperature.
+    * Connected to `C0`.
+
