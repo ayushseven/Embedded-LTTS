@@ -45,4 +45,6 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
     * Sensor (emulated as potentiometer) to sense temperature.
     * Give analog signal (voltage from 0V to 5V) for sensed temperature.
     * Connected to `C0`.
+   
+   ![adc](https://user-images.githubusercontent.com/86160630/127458827-407b034b-b836-4239-9173-d3213482285e.png)
 
