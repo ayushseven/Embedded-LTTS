@@ -53,3 +53,6 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
    
    ## Activity 4 : USART Interfacing
    ![usart](https://user-images.githubusercontent.com/86160630/127460495-0ae7b742-55dc-4829-94ec-20e3ee44f9bf.png)
+   
+   ## Final Integrated circuits
+   
