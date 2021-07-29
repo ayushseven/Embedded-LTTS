@@ -3,7 +3,7 @@
  * @author ayushseven
  * @brief ACTIVITY 2: INTERFACING OF ADC AND GENERATING WAVEFORM WITH CORRESPONDING DUTY CYCLE
  * @version 0.1
- * @date 2021-04-30
+ * @date 2021-07-29
  * 
  * @copyright Copyright (c) 2021
  * 
