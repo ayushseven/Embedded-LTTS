@@ -49,5 +49,5 @@ Objective is to make a Car Seat Heater. The whole project is divided into four d
    ![adc](https://user-images.githubusercontent.com/86160630/127458827-407b034b-b836-4239-9173-d3213482285e.png)
    
    ## Activity 3 : PWM Interfacing
-   
+   ![pwm](https://user-images.githubusercontent.com/86160630/127459676-719849e1-5c44-4ca0-8148-55a876856ee0.png)
 
